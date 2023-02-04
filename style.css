@@ -1,0 +1,62 @@
+* {
+    text-align: center;
+  }
+  
+  body {
+    font-family: "Roboto Mono", monospace;
+    min-height: 1100px;
+    background-image: url("https://publisher-publish.s3.eu-central-1.amazonaws.com/pb-brasil247/swp/jtjeq9/media/20180419120412_9c7ad492a1082b8eb994b02e86c9e1cfe31bb2261a908dbc823754b18a20108c.jpeg");
+    background-color: #111;
+    background-size: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+  }
+  
+  .container {
+    text-align: center;
+    padding: 20px;
+    height: 100vh;
+  }
+  
+  .page-title {
+    color: #ffffff;
+    margin: 0 0 5px;
+  }
+  
+  .page-subtitle {
+    color: #ffffff;
+    margin-top: 5px;
+  }
+  
+  .page-logo {
+    width: 200px;
+  }
+  
+  .alura-logo {
+    width: 40px;
+    position: absolute;
+    top: 10px;
+    right: 10px;
+  }
+  
+  table {
+    border: 2px solid white;
+    border-collapse: collapse;
+  }
+  
+  h1 {
+    color: white;
+  }
+  
+  th,
+  tr,
+  td {
+    border: solid 10px white;
+    color: white;
+  }
+  
+  button {
+    background-color: #002351;
+    color: #f6f6f6;
+  }
+  
